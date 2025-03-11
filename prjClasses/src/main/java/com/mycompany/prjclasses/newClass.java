@@ -11,7 +11,7 @@ package com.mycompany.prjclasses;
  */
 public class newClass {
     
-    public String strSecondClassVar = "Testing";
+    public String strSecondClassVar = "Test";
     
     
     
